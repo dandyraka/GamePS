@@ -30,6 +30,7 @@ Game List
 - Final Fantasy
 - Guitar Hero
 - Residen evil
+- Fifa Street
 ```
 
 ISO Game => https://www.emuparadise.me/
