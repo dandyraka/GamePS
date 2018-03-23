@@ -31,6 +31,7 @@ Game List
 - Guitar Hero
 - Residen evil
 - Fifa Street
+- Jackass
 ```
 
 ISO Game => https://www.emuparadise.me/
