@@ -25,6 +25,9 @@ Game List
 - Mortal Combat
 - Vigilante 8
 - Crash Team Racing
+- Naruto Shippuden Ultimate Ninja 5
+- Digimon Rumble Arena
+- Final Fantasy
 ```
 
 ISO Game => https://www.emuparadise.me/
