@@ -28,6 +28,8 @@ Game List
 - Naruto Shippuden Ultimate Ninja 5
 - Digimon Rumble Arena
 - Final Fantasy
+- Guitar Hero
+- Residen evil
 ```
 
 ISO Game => https://www.emuparadise.me/
