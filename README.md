@@ -24,6 +24,7 @@ Game List
 - Dinasty Warrior
 - Mortal Combat
 - Vigilante 8
+- Crash Team Racing
 ```
 
 ISO Game => https://www.emuparadise.me/
